@@ -1,0 +1,5 @@
+11/17 TODO:
+
+- Learn syntax/fundamentals of SQL
+- Complete Day 1 and Day 2 of learning assessments
+- Get started on familiarizing myself with Python
