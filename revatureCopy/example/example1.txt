@@ -1,5 +1,0 @@
-This will ignore the overwrite using -n
-
-This file overwrote an existing file but with the -b flag,
-it created a backup of the existing destination file.
-

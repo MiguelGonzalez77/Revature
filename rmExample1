@@ -1,0 +1,8 @@
+Removed copyexample1~ w/ no flags and this will keep track of rm commands
+
+The -i flag allows to type y for yes or n for no, to remove or to not remove a
+file.
+
+EDIT: rm -r removed all the directories and subdirectories of my recently
+made directory
+
