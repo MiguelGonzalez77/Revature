@@ -1,0 +1,15 @@
+This will override the changes made to copyexample2
+
+EDIT: now it is overridden and now doesn't show currently the initial change.
+
+EDIT2: With the -b flag on, now it created a backup of copyexample1
+
+EDIT3: Now with the -f flag on, this will force to copy into the destination
+file, and it should delete copyexample2
+
+EDIT4: Using -p flag will preserve characteristics such as ownership, file
+permissions, last access, etc. from the source file In case if I ran a chmod or some other permissions on the file I am copying into.
+
+EDIT5: As seen in Gitbash, if I run ls -l, now my access and modifications
+are the same number
+
